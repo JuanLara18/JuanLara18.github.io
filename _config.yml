@@ -28,3 +28,6 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
+
+# SEO
+keywords: "data science, machine learning, mathematical research, organizational economics, harvard business school"
