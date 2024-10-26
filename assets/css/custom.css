@@ -1,0 +1,22 @@
+/* Estilo minimalista para las cards de proyectos */
+.project-card {
+  border: 1px solid #eee;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+/* Estilo para las publicaciones */
+.publication-item {
+  margin-bottom: 1.5rem;
+}
+
+/* Estilo para las tags de tecnologías */
+.tech-tag {
+  display: inline-block;
+  background: #f0f0f0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.9rem;
+  margin: 0.2rem;
+}
